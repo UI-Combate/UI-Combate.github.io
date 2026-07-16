@@ -1,0 +1,11 @@
+{
+  "name": "Painel de Combate — Ordo Realitas",
+  "short_name": "Combate OP",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#120F0F",
+  "theme_color": "#120F0F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
